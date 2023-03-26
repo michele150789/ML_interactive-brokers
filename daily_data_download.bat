@@ -1,0 +1,1 @@
+C:/Users/Michele/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Michele/Desktop/ib_code/data_downloader.py

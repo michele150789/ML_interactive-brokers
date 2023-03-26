@@ -1,0 +1,14 @@
+Note:
+getdata_new.py funzioni
+stock_buy.py usa modello salvato di machine learining per fare prediction 
+
+
+
+istruzioni:
+-downloader_data.py scarica i dati tutti i giorni alle 18
+
+- dopo aver scaricato i dati update date su ml_training.py
+- run ml_training.py allena modello 
+
+- trader.py fa prediction utilizzando stock to buy e
+- manda ordidi a Interactive Brokers
